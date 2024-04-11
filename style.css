@@ -51,13 +51,14 @@ body {
   margin-bottom: 20px;
 }
 
-.question .heading h3 {
+.question .heading h2 {
   color: hsl(292, 42%, 14%);
   cursor: pointer;
+  font-size: 18px;
   transition: 0.3s;
 }
 
-.question .heading h3:hover {
+.question .heading h2:hover {
   color: hsl(281, 83%, 54%);
 }
 
