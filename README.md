@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/faqaccordion-using-html-css-javascript-3HZzbg5pgy
+- Live Site URL: https://faq-accordion-beige.vercel.app/
 
 ## My process
 
